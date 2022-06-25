@@ -17,3 +17,7 @@ Add the bot to the server.
 
 First go to the application page of discord // https://discord.com/developers/applications
 Click on (OAuth2) URL GENERATOR and click on, Bot, Use Slash Commands, Administrator now your Invite Link should look like this (https://discord.com/api/oauth2/authorize?client_id=DEINEBOTID&permissions=8&scope=bot)
+
+
+Official Discord:
+https://discord.gg/E8hK98P3Wm
